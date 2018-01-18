@@ -1,0 +1,58 @@
+{
+  "_from": "@types/lodash.flowright@^3.5.3",
+  "_id": "@types/lodash.flowright@3.5.3",
+  "_inBundle": false,
+  "_integrity": "sha512-YuCTuUlZCNWdrDVdEv1P4b8PxG3pX+wUT5C4pd905UrXYw18s0PU2Xp2fyVDHodrU8qCD+ibKrpdouTgE++LhQ==",
+  "_location": "/@types/lodash.flowright",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@types/lodash.flowright@^3.5.3",
+    "name": "@types/lodash.flowright",
+    "escapedName": "@types%2flodash.flowright",
+    "scope": "@types",
+    "rawSpec": "^3.5.3",
+    "saveSpec": null,
+    "fetchSpec": "^3.5.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/lodash.flowright/-/lodash.flowright-3.5.3.tgz",
+  "_shasum": "60f8abe70c6656b945afaea1bee7d5297499197b",
+  "_spec": "@types/lodash.flowright@^3.5.3",
+  "_where": "E:\\sketches\\express-webpack-react-redux-typescript-boilerplates",
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Brian Zengel",
+      "url": "https://github.com/bczengel"
+    },
+    {
+      "name": "Ilya Mochalov",
+      "url": "https://github.com/chrootsu"
+    },
+    {
+      "name": "Stepan Mikhaylyuk",
+      "url": "https://github.com/stepancar"
+    }
+  ],
+  "dependencies": {
+    "@types/lodash": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for lodash.flowRight",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/lodash.flowright",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.2",
+  "typesPublisherContentHash": "904bc382350aaeaef34051fdcd97657f2af10fb65bb93d5dca015f6f01388251",
+  "version": "3.5.3"
+}
